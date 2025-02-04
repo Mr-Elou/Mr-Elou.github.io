@@ -135,10 +135,10 @@
         const stripe = Stripe("ton_clé_publique_stripe");
 
         const artworks = [
-            { title: "Dessin 1", image: "images/dessin1.jpg", price: "50€", stripePriceId: "price_1A2B3C4D" },
-            { title: "Dessin 2", image: "images/dessin2.jpg", price: "60€", stripePriceId: "price_5E6F7G8H" },
-            { title: "Dessin 3", image: "images/dessin3.jpg", price: "55€", stripePriceId: "price_2A3B4C5D" },
-            { title: "Dessin 4", image: "images/dessin4.jpg", price: "65€", stripePriceId: "price_3A4B5C6D" },
+            { title: "Dessin 1", image: "Géodéon.tiff", price: "50€", stripePriceId: "price_1A2B3C4D" },
+            { title: "Dessin 2", image: "Pélégrin.tiff", price: "60€", stripePriceId: "price_5E6F7G8H" },
+            { title: "Dessin 3", image: "Lucien.tiff", price: "55€", stripePriceId: "price_2A3B4C5D" },
+            { title: "Dessin 4", image: "Vlad.tiff", price: "65€", stripePriceId: "price_3A4B5C6D" },
             { title: "Dessin 5", image: "images/dessin5.jpg", price: "45€", stripePriceId: "price_4A5B6C7D" },
             { title: "Dessin 6", image: "images/dessin6.jpg", price: "70€", stripePriceId: "price_6A7B8C9D" },
             { title: "Dessin 7", image: "images/dessin7.jpg", price: "75€", stripePriceId: "price_7A8B9C0D" },
