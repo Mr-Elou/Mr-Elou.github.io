@@ -136,9 +136,9 @@
 
         const artworks = [
             { title: "Géodéon", image: "Géodéon.tiff", price: "50€", stripePriceId: "price_1A2B3C4D" },
-            { title: "Pélégrin", image: "Pélégrin.tiff", price: "60€", stripePriceId: "price_5E6F7G8H" },
+            { title: "Pélégrin", image: "Pélégrin.jpg", price: "60€", stripePriceId: "price_5E6F7G8H" },
             { title: "Lucien", image: "Lucien.tiff", price: "55€", stripePriceId: "price_2A3B4C5D" },
-            { title: "Vlad", image: "Vlad.tiff", price: "65€", stripePriceId: "price_3A4B5C6D" },
+            { title: "Vlad", image: "Vlad.jpg", price: "65€", stripePriceId: "price_3A4B5C6D" },
             { title: "Dessin 5", image: "images/dessin5.jpg", price: "45€", stripePriceId: "price_4A5B6C7D" },
             { title: "Dessin 6", image: "images/dessin6.jpg", price: "70€", stripePriceId: "price_6A7B8C9D" },
             { title: "Dessin 7", image: "images/dessin7.jpg", price: "75€", stripePriceId: "price_7A8B9C0D" },
